@@ -1,3 +1,8 @@
+> Runnable Files 
+Windows: https://drive.google.com/open?id=1cMOnuh7-3TXXnR_e4XEl9tLFSPZtYaBq
+Linux: https://drive.google.com/open?id=14sf0y-Fg_fdQ_-9axfBIZ81dAAc2XDSJ
+MacOS: https://drive.google.com/open?id=1oR6kuM_YS7ouJQy9guBoQv3GZRTgfGO0
+
 > instructions
 #### Dependencies (Libraries)
 - Tesseract OCR: https://github.com/tesseract-ocr/tesseract/wiki (need to install this to run)

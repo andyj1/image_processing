@@ -19,3 +19,6 @@
 - The number is accepted only if in range [50, 200].
 - The video skips 3 frames at each time of reading for expedited runthrough.
 - The conditions/thresholds for motion detection may vary for other types of videos than the sample.
+
+> Sample videos
+Link: https://drive.google.com/drive/u/0/folders/1xV9lRZPhbg1SBrieYeb4i5T1OZwsIZnF
